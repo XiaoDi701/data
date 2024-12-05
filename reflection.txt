@@ -1,0 +1,7 @@
+In this project, the data I visualized is the "amount of time I sleep." After confirming several times that there were no required functions for this assignment, I decided to create something more artistic and personal.
+
+My idea is to make a "pupil." I originally made the white part of the eye as well, but unfortunately, because I didn't know how to adjust the distance between two 3D objects, the effect wasn't great, so I removed it. The pupil consists of 7 rings, each made up of different squares. The number of squares in each ring represents the number of minutes I slept from Monday to Sunday.
+
+I found that I go to bed early, possibly due to my anxiety or because I have so much to do—but I'm also someone who enjoys lying in bed and drifting into a beautiful sleep. This contradiction inspired me to create this piece. It's a deep, rotating eye that gazes at you, layer by layer.
+
+As you can see, the number of small squares in each ring reflects how long I slept (in minutes), which is part of how I visualized my data. In my initial idea, I only wanted to create concentric circles, but later I decided to make them move! So I explored the 3D functions in p5.js, and I think this was an interesting experiment.
